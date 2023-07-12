@@ -1,0 +1,5 @@
+python-black (100:23.7.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/psf/black/releases/tag/23.7.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Tue, 11 Jul 2023 15:33:21 +0800
