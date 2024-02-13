@@ -1,0 +1,4 @@
+black: copyright-without-copyright-notice
+black: initial-upload-closes-no-bugs
+black: no-manual-page
+black: zero-byte-file-in-doc-directory
