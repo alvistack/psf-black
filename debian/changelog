@@ -1,0 +1,5 @@
+python-black (100:24.4.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/psf/black/releases/tag/24.4.2
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Fri, 26 Apr 2024 09:35:09 +0800
