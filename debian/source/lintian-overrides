@@ -1,0 +1,5 @@
+python-black source: file-without-copyright-information
+python-black source: no-debian-changes
+python-black source: source-contains-prebuilt-windows-binary
+python-black source: source-is-missing
+python-black source: source-package-encodes-python-version
