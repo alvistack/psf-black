@@ -1,0 +1,5 @@
+python-black (100:26.5.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/psf/black/releases/tag/26.5.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Sun, 17 May 2026 17:51:24 +0800
